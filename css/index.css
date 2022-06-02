@@ -1,12 +1,16 @@
+body {
+  font-family: sans-serif;
+}
 body div#app_root {
   margin: 50px auto;
-  background-color: hsl(0deg, 0%, 20%);
+  background-color: hsl(0deg, 0%, 95%);
+  border-radius: 10px;
   width: 800px;
   height: 600px;
 }
 body div#app_root div.app {
   padding: 50px;
-  color: white;
+  color: hsl(0deg, 0%, 30%);
 }
 
 /*# sourceMappingURL=index.css.map */
