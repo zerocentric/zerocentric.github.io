@@ -1,0 +1,12 @@
+body div#app_root {
+  margin: 50px auto;
+  background-color: hsl(0deg, 0%, 20%);
+  width: 800px;
+  height: 600px;
+}
+body div#app_root div.app {
+  padding: 50px;
+  color: white;
+}
+
+/*# sourceMappingURL=index.css.map */
